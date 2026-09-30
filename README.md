@@ -1,6 +1,6 @@
 These scripts follow the analyses of the teff pangenome paper, using a mix of bash, R and Python. 
 Scripts are ordered in semi-chronological order following the flow of the paper. 
-Scripts are the following:
+Scripts are the following, and are individually annotated:
 
 01_Genome assembly
 de novo genome assembly
